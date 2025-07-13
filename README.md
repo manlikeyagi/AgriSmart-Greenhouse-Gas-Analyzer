@@ -64,7 +64,7 @@ The **AgriSmart Gas Analyzer** is an Internet of Things (IoT) solution developed
 <h3 align="center">🔧 AgriSmart  Gas Analyzer📱 🔧 Schematic Diagram
  </h3>
 <p align="center">
-  <img src="schematics/vdd_bb.png" width="300"/>
+  <img src="schematics/vdd_bb.png" width="400"/>
 </p>
 
 
