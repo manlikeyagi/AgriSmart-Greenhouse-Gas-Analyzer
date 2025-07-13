@@ -2,6 +2,10 @@
 # 🧪 AgriSmart Gas Analyzer
 
 The **AgriSmart Gas Analyzer** is an Internet of Things (IoT) solution developed to monitor **air quality** inside greenhouse environments. It is part of the AgriSmart ecosystem, which includes the Weather Station and Irrigation System. This analyzer focuses on detecting **harmful gases** such as **ammonia (NH₃)** and **carbon dioxide (CO₂)** to ensure a safe and healthy atmosphere for both plants and greenhouse workers.
+<h3 align="center">🔧 AgriSmart Gas analyzer 🧪 </h3>
+<p align="center">
+  <img src="images/agrismart gas analyzer.jpg" width="400"/>
+</p>
 
 ---
 
@@ -66,8 +70,4 @@ The **AgriSmart Gas Analyzer** is an Internet of Things (IoT) solution developed
 
 
 
-<h3 align="center">🔧 AgriSmart Gas analyzer 🧪 </h3>
-<p align="center">
-  <img src="images/agrismart gas analyzer.jpg" width="300"/>
-</p>
 
