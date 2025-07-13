@@ -27,6 +27,12 @@ The **AgriSmart Gas Analyzer** is an Internet of Things (IoT) solution developed
 - Displays gas levels on an **LCD screen**
 - Helps maintain a safe and productive greenhouse environment
 
+<h3 align="center">🔧 AgriSmart  Gas📱 Mobile App Dashboard
+ </h3>
+<p align="center">
+  <img src="images/agrismart gas analyzer mobile application.jpg" width="300"/>
+</p>
+
 ---
 
 ## 🧰 Components Used
@@ -62,11 +68,6 @@ The **AgriSmart Gas Analyzer** is an Internet of Things (IoT) solution developed
 </p>
 
 
-<h3 align="center">🔧 AgriSmart  Gas📱 Mobile App Dashboard
- </h3>
-<p align="center">
-  <img src="images/agrismart gas analyzer mobile application.jpg" width="300"/>
-</p>
 
 
 
